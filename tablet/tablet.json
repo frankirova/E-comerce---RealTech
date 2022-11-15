@@ -1,0 +1,63 @@
+[
+    {
+        "id" : 1 ,
+        "marca" : "Xiaomi Redmi Pad",
+        "procesador": "MediaTek Helio G99 ",
+        "ram": "4Gb",
+        "pantalla" : "10.6'",
+        "almacenamiento" : "128 Gb",
+        "precio" : "$119900",
+        "img": "/img/tablet/xiaomi.png"
+    },
+    {
+        "id" : 2 ,
+        "marca" : "Samsung Tab A8 Lite",
+        "procesador": "Mediatek MT8768T ",
+        "ram": "3Gb",
+        "pantalla" : "10.5'",
+        "almacenamiento" : "32 Gb",
+        "precio" : "$78999",
+        "img": "/img/tablet/Samsung-tab8.png"
+    },
+    {
+        "id" : 3 ,
+        "marca" : "Huawei MediaPad T3",
+        "procesador": " Quad-Core A53 ",
+        "ram": "3Gb",
+        "pantalla" : "9.6'",
+        "almacenamiento" : "32 Gb",
+        "precio" : "$15000",
+        "img": "/img/tablet/huawei.png"
+    },
+    {
+        "id" : 4 ,
+        "marca" :  "Lenovo TB-8505F",
+        "procesador": " Mediatek Helio A22 TAB, Quad Core 2.0 GHz ",
+        "ram": "2Gb",
+        "pantalla" : "8'",
+        "almacenamiento" : "32 Gb",
+        "precio" : "$39990",
+        "img": "/img/tablet/Lenovo-TB.png"
+    },
+    {
+        "id" : 5 ,
+        "marca" :  "Samsung Tab A7 Lite",
+        "procesador": "Octa-Core 2.3 GHz ",
+        "ram": "3Gb",
+        "pantalla" : "8'",
+        "almacenamiento" : "32 Gb",
+        "precio" : "$34999",
+        "img": "/img/tablet/Samsung-tab7.png"
+    },
+    {
+        "id" : 6 ,
+        "marca" :  "iPad Apple",
+        "procesador": "A13 Bionic",
+        "ram": "8Gb",
+        "pantalla" : "10.2'",
+        "almacenamiento" : "64 Gb",
+        "precio" : "$122999",
+        "img": "/img/tablet/iPad.png"
+    }
+    
+]

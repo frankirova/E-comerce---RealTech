@@ -1,0 +1,57 @@
+[
+    {   
+        "id" : 1 ,
+        "marca" : "Samsung Galaxy A52s",
+        "procesador": "Octa Core 2.4 GHz, 1.8 GHz",
+        "ram": "6Gb",
+        "pantalla" : "6.5'",
+        "almacenamiento" : "128 Gb",
+        "precio" : "$125999",
+        "img": "/img/celu/samsung-A52.png"
+    },{   
+        "id" : 2 ,
+        "marca" : "Samsung Galaxy S20 Fan Edition",
+        "procesador": "Octa Core 2.8 GHz, 2.4 GHz, 1.8 GHz",
+        "ram": "6Gb",
+        "pantalla" : "6.5'",
+        "almacenamiento" : "128 Gb",
+        "precio" : "$110999",
+        "img": "/img/celu/samsung-S20FE.png"
+    },{   
+        "id" : 3 ,
+        "marca" : "Samsung Galaxy S22 Plus",
+        "procesador": "Samsung Galaxy S22 Plus",
+        "ram": "8Gb",
+        "pantalla" : "6.6'",
+        "almacenamiento" : "240Gb",
+        "precio" : "$299999",
+        "img": "/img/celu/samsung-S22+.png"
+    },{   
+        "id" : 4 ,
+        "marca" : "Samsung Galaxy Z Fold 4",
+        "procesador": "Octa Core 3.18 GHz, 2.7 GHz, 2 GHz.",
+        "ram": "12Gb",
+        "pantalla" : "7.6'",
+        "almacenamiento" : "512Gb",
+        "precio" : "$429999",
+        "img": "/img/celu/samsung-Z.FOLD.png"
+    },{   
+        "id" : 5 ,
+        "marca" : "Motorola Edge 20 Pro",
+        "procesador": "Octa Core 3.2 GHz",
+        "ram": "8Gb",
+        "pantalla" : "6.7'",
+        "almacenamiento" : "256Gb",
+        "precio" : "$110999",
+        "img": "/img/celu/motorola-edge20.png"
+    },{   
+        "id" : 6 ,
+        "marca" : "Motorola Moto G71",
+        "procesador": "Octa Core 2.2 GHz",
+        "ram": "6Gb",
+        "pantalla" : "6.43'",
+        "almacenamiento" : "128Gb",
+        "precio" : "$143990",
+        "img": "/img/celu/motorola-G71.png"
+    }
+]
